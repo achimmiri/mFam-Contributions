@@ -30,7 +30,8 @@ the Sheet for the meta data of the sample, compound, spectrum, and authors. The 
     Found in The sample origin (optional, e.g. Tomato leaf (Solanum habrochaites LA1777))
     Database links Links to compound databases (optional, e.g. KEGG C05625; ChEBI 28527)
     Authors All authors who substantially contributed to the spectrum (mandatory, e.g. Ales Svatos, Ravi Kumar Maddula, MPI for Chemical Ecology, Jena, Germany)
-    Publication Relevant pblication related to the spectrum (optional, e.g. F. Rasche, A. Svatos, R.K. Maddula, C. Boettcher and S. Boecker. Computing fragmentation trees from tandem mass spectrometry data. Anal. Chem., 2011, 83, 1243-1251)
+    Publication Relevant pblication related to the spectrum (optional, e.g. F. Rasche, A. Svatos, R.K. Maddula, C. Boettcher and S. Boecker. Computing
+    fragmentation trees from tandem mass spectrometry data. Anal. Chem., 2011, 83, 1243-1251)                                                                                  
 
 Folder Strcture for the input data 
 
