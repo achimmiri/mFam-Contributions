@@ -1,0 +1,28 @@
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Alena Soboleva IPB Halle/meta data/MS2_Sterols & terpens_merge.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Asaph Aharoni WEIZMASS.old/meta data/WeizMass3000_metaData_preliminary_without181112.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Corey Broeckling Colorado State University/meta data/Compound_Spreadsheet_Broeckling_02.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Emmanuel Gaquerel Universitaet Heidelberg/meta data/Compound_Spreadsheet_For_MSMS_libraries_Gaquerel.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Fredd Vergara Montalvo@Div/meta data/Compound_Spreadsheet_Fredd_Datura.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Gerd Balcke@ipb-halle_NRG/meta data/Compound_Spreadsheet_For_MSMS_libraries_NRG ESI neg_new.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Jacob Pollier@Ghent University_Catharanthus/meta data/Compound_Spreadsheet_For_MSMS_libraries_Catharanthus_VIB_edHT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Jacob Pollier@Ghent University_Medicago/meta data/Compound_Spreadsheet_For_MSMS_libraries_Medicago_VIB_edJP.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Jean-Luc Wolfender University of Geneva_neg/meta data/Compound_Spreadsheet_For_MSMS_libraries_PMA_LMQ_UniGe_neg_edHT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Jean-Luc Wolfender University of Geneva_pos/meta data/Compound_Spreadsheet_For_MSMS_libraries_PMA_UniGe_edHT_02.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Joerg Buescher MPI fuer Immunbiologie und Epigenetik Freiburg/meta data/MCF metabolite collection_template_whole_edJB_newFiles.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Kristian Peters IPB Halle/meta data/190515_Peters_template_edit SD.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Kutchan_Toni/meta data/MSMS_libraries_KutchanLab_20180904-2_posNeg.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/maximilian_frey@uni-hohenheim.de/meta data/20181218_STL_Ref_v17.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Micha Gracianna Devi_Acyl sugars_IPB_old/meta data/Compound_Spreadsheet_Acylsuga_MIC_edHT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Micha Gracianna Devi_Acyl sugars_IPB/meta data/MFAM_Micha_4tomatoes_edHT_ESIneg for micha only.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Michael_Reichelt_MPI-Mol_Oek_Jena/meta data/Compound_Spreadsheet_Reichelt_MPICE_UPLC-ESI-QTOF.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Ric de Vos Wageningen/meta data/Vosman_2018_122_2018_3239_MOESM1_ESM.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Stacey Reinke Edith Cowan University_neg/meta data/Compound_Spreadsheet_For_MSMS_libraries_CIMCB_NEG_exploded_edHT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Stacey Reinke Edith Cowan University_pos/meta data/Compound_Spreadsheet_For_MSMS_libraries_CIMCB_POS_exploded_edHT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Stefanie Doell IPB Halle_2nd/meta data/SEB_library_doell_new_reviewSD_edHT_rereviewSD.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Stefanie Doell IPB Halle/meta data/181004_Problemfaelle.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Stefanie_Herman@Uppsala_University/meta data/Compound_Spreadsheet_MSMS_merge.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/template/meta data/Compound_Spreadsheet_Example.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/TestProject/meta data/Template_44_cpds.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Ulschan Bathe di and sesquiterpenes/meta data/Compound_Spreadsheet_For_MSMS_libraries_Ulschan_new_HT.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Univ Athens Maria Halabalaki 2nd/meta data/Compound_Spreadsheet_For_MSMS_libraries_byHT_final_coumarin.xlsx
+/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/Univ Athens Maria Halabalaki/meta data/Compound_Spreadsheet_For_MSMS_libraries_byHT_final_edHT.xlsx
