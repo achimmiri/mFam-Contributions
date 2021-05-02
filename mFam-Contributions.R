@@ -24,9 +24,21 @@ library(schoolmath)
 library(classyfireR)
 library(sen2r)
 ########## Step1: Reading the API key
+<<<<<<< HEAD
 Sys.setenv(CHEMSPIDER_KEY = CHEMSPIDERKEY)
 rr_auth(CHEMSPIDERKEY)
 apikey=CHEMSPIDERKEY
+=======
+<<<<<<< HEAD
+Sys.setenv(CHEMSPIDER_KEY = CHEMSPIDERKEY)
+rr_auth(CHEMSPIDERKEY)
+apikey=CHEMSPIDERKEY
+=======
+Sys.setenv(CHEMSPIDER_KEY = "qeTvHEEPlYAefWqUpv4dJGG8w1UuxV5G")
+rr_auth("qeTvHEEPlYAefWqUpv4dJGG8w1UuxV5G")
+apikey="qeTvHEEPlYAefWqUpv4dJGG8w1UuxV5G"
+>>>>>>> origin/master
+>>>>>>> origin/master
 #########################################################
 #########################################################
 args <- commandArgs(TRUE)
@@ -46,7 +58,15 @@ Fi8<-paste(Fi5,"converted to msp",sep="/")
 Fi9<-paste(Fi8,"/",sep="")
 #######################################################
 ####### Step2: Reading the All the required files
+<<<<<<< HEAD
 AIN<-read.table("ADI.txt",sep="\t",header=F,quote="",stringsAsFactors = FALSE)
+=======
+<<<<<<< HEAD
+AIN<-read.table(ADI.txt,sep="\t",header=F,quote="",stringsAsFactors = FALSE)
+=======
+AIN<-read.table("/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/scripts/ADI.txt",sep="\t",header=F,quote="",stringsAsFactors = FALSE)
+>>>>>>> origin/master
+>>>>>>> origin/master
 ####################Step3: READ the meta data file
 RXF<-read_excel(File1, sheet = 1, col_names = TRUE,skip=1,.name_repair="minimal")
 RXF[] <- lapply(RXF, function(x) type.convert(as.character(x)))
